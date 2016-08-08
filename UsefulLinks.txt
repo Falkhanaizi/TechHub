@@ -1,0 +1,12 @@
+Links for the workshop
+
+XML and Xaml
+http://www.tutorialspoint.com/xml/
+http://www.tutorialspoint.com/xaml/
+https://msdn.microsoft.com/en-us/library/cc295302.aspx
+
+UI Controls
+https://xamarinhelp.com/cheat-sheet-for-xamarin-form-controls/
+
+Xamarin.Forms Documentation
+https://developer.xamarin.com/guides/xamarin-forms/getting-started/
