@@ -2,8 +2,10 @@
 
 Links for the workshop
 
-[C# Fundamentals for absolute beginners] 
+[C# Fundamentals for absolute beginners - video] 
 (https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
+
+[C# tutorial - online documentations](http://www.tutorialspoint.com/csharp/index.htm)
 
 [Programming in C# Jump Start]
 (https://mva.microsoft.com/en-US/training-courses/programming-in-c-jump-start-14254)
