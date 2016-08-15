@@ -7,14 +7,3 @@ Challenges for IF condition
 - Write a program that adds or subtracts two number depending on input ("+" = addition, "-" = subtraction)
 
 - Write a program to print Weekday depending on entered number (1 = Sunday, 2 = Monday ... 7 = Friday)
-
-
---------------
-
-Challenges for Loop
-
-- Print multiplication table of any number (till the 10th multiple)
-
-- Print sum of number from 1 to 10
-
-- Print numbers from 1 to n (n is the input)
